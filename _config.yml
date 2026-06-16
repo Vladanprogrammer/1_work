@@ -2,3 +2,4 @@ exclude: ["Lab_8/google-cloud-sdk"]
 title: Portfolio Example
 description: Shows how to create portfolio for students.
 remote_theme: pages-themes/midnight@v0.2.0
+gem "github-pages", group: :jekyll_plugins
