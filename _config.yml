@@ -1,3 +1,4 @@
 exclude: ["Lab_8/google-cloud-sdk"]
 title: Portfolio Example
 description: Shows how to create portfolio for students.
+theme: Midnight
